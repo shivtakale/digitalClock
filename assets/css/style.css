@@ -1,0 +1,18 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+body{
+	background-color:black;
+    color: aliceblue;
+  	
+}
+#digitcl{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 70px;
+    text-shadow: 2px 2px 2px rgb(233, 24, 160);
+}
